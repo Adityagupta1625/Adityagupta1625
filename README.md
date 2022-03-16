@@ -14,7 +14,7 @@
   Let's Connect :
 </h2>
 <p align="center" style="padding:10px;">
-<a href="www.linkedin.com/in/aditya-gupta-6014081bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-gupta-6014081bb" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aditya-gupta-6014081bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-gupta-6014081bb" height="30" width="40" /></a>
 <a href="https://www.instagram.com/aditya_25122001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya_25122001" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/adi_2516" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adi_2516" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/guptaaditya2512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="guptaaditya2512" height="30" width="40" /></a>
