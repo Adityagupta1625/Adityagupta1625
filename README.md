@@ -1,4 +1,5 @@
-<h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Aditya <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
+<h1 align="Center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80px" > </h1>
+<h1 align="Center">  Hi There ,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" />  I'm Aditya  </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adityagupta1625" alt="raghav-byte" /> </p>
 
 *I'm a Computer Science Enthusiast  👨‍💻, Currently in 2nd year  at Nit Jalandhar 👨‍🎓*
