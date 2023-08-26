@@ -2,7 +2,7 @@
 <h1 align="Center">  Hi There ,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" />  I'm Aditya  </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adityagupta1625" alt="raghav-byte" /> </p>
 
-*I'm a Computer Science Enthusiast  👨‍💻, Currently in 3nd year  at Nit Jalandhar 👨‍🎓*
+*I'm a Computer Science Enthusiast  👨‍💻, Currently in final year  at Nit Jalandhar 👨‍🎓*
  
 - 🌱 I’m currently learning about **Data Structures and Algorithms** 
 - 👯 I’m looking to collaborate on **Web Dev stuff**
